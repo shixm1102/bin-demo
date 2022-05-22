@@ -8,6 +8,5 @@
 # 发包
 1. npm login 
 2. npm publish, 当你的包名为@your-name/your-package时 npm publish --access public
-执行 pulish 时，需要注意，package.json中的版本号，要高于线上版本号
-npm publish 1.0.2
+**执行 pulish 时，需要注意，package.json中的版本号，要高于线上版本号**
 

@@ -1,3 +1,5 @@
+# 学习package.json中bin的用法
+
 1. mkdir bin-demo
 2. npm init -y
 3. mkdir bin
